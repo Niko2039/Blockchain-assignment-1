@@ -14,7 +14,7 @@ Blockchain technology is a decentralized and distributed ledger system that unde
 10. Use Cases: Blockchain technology has a wide range of applications, including cryptocurrency, supply chain management, voting systems, healthcare data management, identity verification, and more. It is particularly valuable in situations where trust, transparency, and security are paramount.
 In summary, blockchain technology functions by creating a decentralized, transparent, and secure ledger of transactions and data through the use of cryptographic techniques, consensus mechanisms, and distributed computing. Its potential applications are vast and continue to evolve as the technology matures.
 
-2.	Comprehensive review of the code
+Comprehensive review of the code
 3.	Blockchain Class:
 a.	So, the heart of this code is the Blockchain class. It's responsible for managing the chain of blocks, transactions, and some basic consensus logic.
 b.	We kick things off by initializing an empty chain, an empty list for pending transactions, and a set of nodes representing network participants. The first block, the "genesis block," is created right away with predefined values.
